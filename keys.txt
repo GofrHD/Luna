@@ -1,3 +1,0 @@
-Key-2137,24h,Premium
-Key-8512,1h,Freemium
-Key-9231,24h,Premium

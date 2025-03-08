@@ -1,0 +1,6 @@
+{
+  "keys": {
+    "ABC123": { "valid_for": 3600, "first_use": null },
+    "DEF456": { "valid_for": 86400, "first_use": 1710000000 }
+  }
+}
